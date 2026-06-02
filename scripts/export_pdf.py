@@ -552,6 +552,11 @@ def prepare_bibliography_for_pdf(temp_root, lang, config_path):
         output_file=output_file,
     )
     update_bibtex_config_for_pdf(str(config_path), output_rel.as_posix())
+    
+    if result.citation_count == 0:
+        print(f"   ℹ️ No se detectaron citas en '{lang}'. Omitiendo preparación de página de bibliografía.")
+        return
+
     reference_page = find_global_bibliography_page(content_dir)
     rewrite_global_bibliography_to_all(reference_page)
 

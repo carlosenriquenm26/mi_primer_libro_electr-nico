@@ -4,9 +4,4 @@ parts:
   - caption: Fundamentals
     chapters:
     - file: en/01_cartography/introduction_cartography
-  - caption: Information
-    chapters:
-    - file: en/90_about
-    - file: en/91_licenses
-    - file: en/92_how_to_cite
-    - file: en/93_bibliography
+

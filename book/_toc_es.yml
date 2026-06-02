@@ -4,9 +4,4 @@ parts:
   - caption: Fundamentos
     chapters:
     - file: es/01_cartografia/introduccion_cartografia
-  - caption: Información
-    chapters:
-    - file: es/90_acerca_de
-    - file: es/91_licencias
-    - file: es/92_como_citar
-    - file: es/93_bibliografia
+
