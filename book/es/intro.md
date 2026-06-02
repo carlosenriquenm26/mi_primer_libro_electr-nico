@@ -1,23 +1,23 @@
 # Introducción
 
-Bienvenido a **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial**.
+Bienvenido al libro interactivo **Fundamentos Prácticos de Cartografía Geológica**.
 
-## ¿Qué es esto?
-Es el material del curso y una plantilla diseñada para que el profesorado de las **Facultades de Ciencias y de Ciencias Químicas de la USAL** pueda crear libros docentes interactivos de forma sencilla. La idea principal de esta plantilla es que sea lo suficientemente extensa para cubrir muchos casos de uso y que cada alumno la adapte a su propio curso, pero que a la vez esté lo suficientemente equipada para que se pueda usar de forma sencilla con la ayuda de asistentes de IA (como GitHub Copilot, Gemini, Claude, Codex, etc.) y con un editor de código como VS Code.
+Este recurso didáctico ha sido diseñado para estudiantes y profesionales de las Ciencias de la Tierra con el objetivo de facilitar el aprendizaje autónomo e interactivo de las técnicas de representación y análisis del terreno.
 
-## Contenido
-En este libro encontrarás:
-- [Tutoriales](01_tutorial/01_que_es_un_teachbook.md) para aprender a usar la plantilla
-- [Ejemplos por Grado](02_grados/grado_fisica/intro.md) para ver casos reales
-- Información sobre [cómo citar](92_como_citar.md) y [licencias](91_licencias.md)
+## Estructura del Libro
 
-## Versión PDF
+El contenido está organizado de forma progresiva:
 
-También puedes descargar la versión imprimible del libro:
+*   **[Fundamentos de Cartografía](01_cartografia/introduccion_cartografia.md):** Conceptos clave como rumbo, buzamiento, dirección de buzamiento, y la interpretación de los diferentes tipos de contactos geológicos en el mapa.
+*   **Ejercicios Prácticos (Próximamente):** Batería de problemas resueltos y cuadernos interactivos de Python para la resolución automática de problemas estructurales de tres puntos y cortes geológicos.
 
-- [Descargar PDF en español](../_static/ElaboracionDeLibrosElectronicosMedianteCodigoYAsistentesDeInteligenciaArtificial.pdf)
-- [Download PDF in English](../_static/CreatingElectronicBooksWithCodeAndArtificialIntelligenceAssistants.pdf)
+## Versión PDF (Imprimible)
+
+Puedes descargar la versión completa en formato PDF para estudiar fuera de línea o imprimirla:
+
+*   [Descargar PDF en Español](../_static/FundamentosPracticosDeCartografiaGeologica.pdf)
+*   [Download PDF in English](../_static/PracticalFundamentalsOfGeologicalMapping.pdf)
 
 ```{note}
-Este proyecto está diseñado para ser usado con **VS Code** y asistentes de **IA**.
+Este libro interactivo es un proyecto dinámico de la **Universidad de Salamanca (USAL)**.
 ```

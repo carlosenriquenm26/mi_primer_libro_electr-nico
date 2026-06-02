@@ -1,6 +1,6 @@
 # Acerca de
 
-Este libro es el material del curso **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial**. Está pensado para que el profesorado de las Facultades de Ciencias y de Ciencias Químicas de la Universidad de Salamanca pueda crear, adaptar y publicar libros docentes interactivos con una barrera técnica mínima.
+Este libro es un recurso didáctico interactivo sobre **Fundamentos Prácticos de Cartografía Geológica**. Se ha desarrollado utilizando como base el material y la plantilla del curso **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial** de la Universidad de Salamanca.
 
 La información de cita, BibTeX, DOI y metadatos de Zenodo está reunida en la página [Cómo citar](92_como_citar.md).
 

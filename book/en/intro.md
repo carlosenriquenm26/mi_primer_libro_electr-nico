@@ -1,24 +1,23 @@
 # Introduction
 
-Welcome to **Creating Electronic Books with Code and Artificial Intelligence Assistants**.
+Welcome to the interactive book **Practical Fundamentals of Geological Mapping**.
 
-## What is this?
-This is the course material and a template designed for the teaching staff of the **Faculties of Sciences and Chemical Sciences at USAL** to create interactive teaching books easily. The main idea of this template is for it to be broad enough to cover many use cases and for each student to adapt it to their own course, while also being sufficiently equipped to be used easily with the help of AI assistants (such as GitHub Copilot, Gemini, Claude, Codex, etc.) and a code editor such as VS Code.
+This teaching resource has been designed for Earth Sciences students and professionals with the goal of facilitating autonomous and interactive learning of representation and terrain analysis techniques.
 
-## Content
-In this book you will find:
+## Book Structure
 
-- [Tutorials](01_tutorial/01_what_is_a_teachbook.md) to learn how to use the template
-- [Examples by Degree](02_degrees/physics_degree/intro.md) to see real cases
-- Information on [how to cite](92_how_to_cite.md) and [licenses](91_licenses.md)
+The content is organized progressively:
 
-## PDF version
+*   **[Fundamentals of Mapping](01_cartography/introduction_cartography.md):** Key concepts such as strike, dip, dip direction, and the interpretation of different types of geological contacts on maps.
+*   **Practical Exercises (Coming Soon):** A battery of solved problems and interactive Python notebooks for the automatic resolution of three-point structural problems and geological cross-sections.
 
-You can also download the printable version of the book:
+## PDF Version (Printable)
 
-- [Download PDF in English](../_static/CreatingElectronicBooksWithCodeAndArtificialIntelligenceAssistants.pdf)
-- [Descargar PDF en español](../_static/ElaboracionDeLibrosElectronicosMedianteCodigoYAsistentesDeInteligenciaArtificial.pdf)
+You can download the full version in PDF format for offline study or printing:
+
+*   [Download PDF in English](../_static/PracticalFundamentalsOfGeologicalMapping.pdf)
+*   [Descargar PDF en Español](../_static/FundamentosPracticosDeCartografiaGeologica.pdf)
 
 ```{note}
-This project is designed to be used with **VS Code** and **AI** assistants.
+This interactive book is a dynamic project of the **University of Salamanca (USAL)**.
 ```

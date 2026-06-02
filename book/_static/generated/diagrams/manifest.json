@@ -2,6 +2,12 @@
   "generated_by": "scripts/render_diagrams.py",
   "items": [
     {
+      "source": "diagram_sources\\en\\01_cartography_introduction_cartography_01.mermaid",
+      "output": "book\\_static\\generated\\diagrams\\en\\01_cartography_introduction_cartography_01.svg",
+      "type": "mermaid",
+      "format": "svg"
+    },
+    {
       "source": "diagram_sources\\en\\01_tutorial_02_workflow_01.mermaid",
       "output": "book\\_static\\generated\\diagrams\\en\\01_tutorial_02_workflow_01.svg",
       "type": "mermaid",
@@ -118,6 +124,12 @@
     {
       "source": "diagram_sources\\en\\05_basic_content_mermaid_05.mermaid",
       "output": "book\\_static\\generated\\diagrams\\en\\05_basic_content_mermaid_05.svg",
+      "type": "mermaid",
+      "format": "svg"
+    },
+    {
+      "source": "diagram_sources\\es\\01_cartografia_introduccion_cartografia_01.mermaid",
+      "output": "book\\_static\\generated\\diagrams\\es\\01_cartografia_introduccion_cartografia_01.svg",
       "type": "mermaid",
       "format": "svg"
     },

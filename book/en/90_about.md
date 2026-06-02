@@ -1,6 +1,6 @@
 # About
 
-This book contains the course material for **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial**. It is designed to help teaching staff at the Faculties of Sciences and Chemical Sciences of the University of Salamanca create, adapt and publish interactive teaching books with minimal technical friction.
+This book is an interactive teaching resource for **Practical Fundamentals of Geological Mapping**. It has been developed by adapting the template and materials from the course **Elaboración de libros electrónicos mediante código y asistentes de Inteligencia Artificial** at the University of Salamanca.
 
 Citation information, BibTeX, DOI and Zenodo metadata are collected on the [How to Cite](92_how_to_cite.md) page.
 
